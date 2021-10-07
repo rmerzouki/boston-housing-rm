@@ -1,6 +1,6 @@
 # Boston Housing Price Web App deployed on Heroku
 
-The deployed web app is live at https://iris-streamlit-rm.herokuapp.com/
+The deployed web app is live at https://bostonhousing-app-rm.herokuapp.com/
 
 This web app predicts the median price/value of a house located in Boston area as a function of its input parameters : CRIM,ZN, INDUS, CHAS, NOX, RM, AGE, DIS, RAD, TAX, PTRATIO, B, LSTAT.
 
