@@ -1,4 +1,4 @@
-# boston_housing_rm
+# Boston Housing Price Web App deployed on Heroku
 
 The deployed web app is live at https://iris-streamlit-rm.herokuapp.com/
 
