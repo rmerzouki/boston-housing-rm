@@ -29,7 +29,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/housing/**
 
 The web app was built in Python using the following libraries:
 
-streamlit
-pandas
-scikit-learn
-shap
+* streamlit
+* pandas
+* scikit-learn
+* shap
