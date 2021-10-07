@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Boston_rm.py
+web: sh setup.sh && streamlit run Boston_rm2.py
