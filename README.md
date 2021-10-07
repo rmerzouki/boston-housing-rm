@@ -24,8 +24,7 @@ The variable to predict is MEDV:
 * **MEDV:** Median value of owner-occupied homes in $1000.
 
 **Creator: Harrison, D. and Rubinfeld, D.L.\n\nThis is a copy of UCI ML housing dataset.
-https://archive.ics.uci.edu/ml/machine-learning-databases/housing/**
-*This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
+https://archive.ics.uci.edu/ml/machine-learning-databases/housing/** This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.
 
 The web app was built in Python using the following libraries:
 
