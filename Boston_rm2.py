@@ -5,7 +5,11 @@ import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.ensemble import RandomForestRegressor
 import pickle
+from PIL import Image
 st.set_option('deprecation.showPyplotGlobalUse', False)
+
+image=Image.open("matt-collamer-UpYF6ibFud0-unsplash.jpg")
+st.image(image, caption='Photo by Matt Collamer on Unsplash - Boston historic Acorn Street - shot in November 2020')
 
 st.write("""
 # Boston House Price Prediction App
